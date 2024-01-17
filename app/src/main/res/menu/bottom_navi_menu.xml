@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/homeTab"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        >
+    </item><item android:id="@+id/messageTab"
+        android:icon="@drawable/ic_message"
+        android:title="Message"
+        >
+   </item>
+
+<item android:id="@+id/personTab"
+        android:icon="@drawable/ic_person"
+        android:title="Person"
+        >
+    </item>
+
+
+</menu>
